@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/Github/ASIO-Networking/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/Administrator/Desktop/Github/ASIO-Networking/asio-1.30.2/include -g -std=gnu++17 -o CMakeFiles\\asio-Networking.dir\\main.cpp.obj -c C:\\Users\\Administrator\\Desktop\\Github\\ASIO-Networking\\main.cpp",
+  "file": "C:\\Users\\Administrator\\Desktop\\Github\\ASIO-Networking\\main.cpp",
+  "output": "CMakeFiles\\asio-Networking.dir\\main.cpp.obj"
+}
+]

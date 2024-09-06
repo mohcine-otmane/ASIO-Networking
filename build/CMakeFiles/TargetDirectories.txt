@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Github/ASIO-Networking/build/CMakeFiles/asio-Networking.dir
+C:/Users/Administrator/Desktop/Github/ASIO-Networking/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Github/ASIO-Networking/build/CMakeFiles/rebuild_cache.dir
