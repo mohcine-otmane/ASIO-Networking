@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\asio-Networking.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\asio-Networking.dir/objects.a @CMakeFiles\asio-Networking.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\asio-Networking.dir/objects.a -Wl,--no-whole-archive -o bin\asio-Networking.exe -Wl,--out-implib,libasio-Networking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\asio-Networking.dir\linkLibs.rsp

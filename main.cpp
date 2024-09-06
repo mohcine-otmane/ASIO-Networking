@@ -10,11 +10,6 @@
 #include <asio.hpp>
 #include <asio/ts/buffer.hpp>
 #include <asio/ts/internet.hpp>
-#include <bits/this_thread_sleep.h>
-
-
-
-
 
 int main() {
     
@@ -52,7 +47,7 @@ int main() {
 
         if(bytes >0) {
             std::vector<char> vBuffer(bytes);
-            socket.async_read_some(asio::buffer(vBuffer.data(), vBuffer.size()), ec);
+            socket.read_some(asio::buffer(vBuffer.data(), vBuffer.size()), ec);
 
             for(auto c : vBuffer) {
                 std::cout<<c;
